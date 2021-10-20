@@ -1,0 +1,4 @@
+com\qa\utilities\ConfigPropertyReader.class
+com\qa\stepDefs\ServicesStepDef.class
+com\qa\runners\TestRunner.class
+com\qa\stepDefs\Hook.class
